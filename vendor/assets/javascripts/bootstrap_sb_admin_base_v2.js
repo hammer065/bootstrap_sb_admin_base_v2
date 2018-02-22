@@ -11,9 +11,9 @@
 // about supported directives.
 //
 //= require_tree ./flot
-//= require ./jquery/jquery.dataTables.min
-//= require ./bootstrap/bootstrap.min
-//= require ./bootstrap/dataTables.bootstrap.min
+//= require ./bootstrap/js/bootstrap.min
+//= require ./datatables/jquery.dataTables
+//= require ./datatables/datatables.min
 //= require ./metis_menu/metisMenu.min
 //= require ./morris/morris.min
 //= require ./raphael/raphael-min
