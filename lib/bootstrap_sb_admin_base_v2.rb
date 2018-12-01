@@ -4,7 +4,7 @@ module BootstrapSbAdminBaseV2
   module Rails
     class Engine < ::Rails::Engine
       require "font-awesome-rails"
-      require "dataTables/jquery.dataTables"
+      require "jquery-datatables-rails"
       require "bootstrap"
     end
   end
