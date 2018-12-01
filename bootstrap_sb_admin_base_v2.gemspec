@@ -21,4 +21,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "jquery-rails"
   spec.add_dependency "font-awesome-rails"
+  spec.add_dependency "jquery-datatables-rails"
+  spec.add_dependency "bootstrap"
 end
